@@ -1,0 +1,8 @@
+print (1)
+print (1, 2, 3)
+print (1+1)
+print(3*8)
+print(10-2.2)
+print('*' * 80)
+print('Ahoj'+ '' + 'PyLadies!')
+print('V míse je maso.')
